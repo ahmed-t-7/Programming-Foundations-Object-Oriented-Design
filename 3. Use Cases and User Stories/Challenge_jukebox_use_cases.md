@@ -3,10 +3,10 @@
 Title: play a song <br />
 Primary Actor: User <br />
 Success Scenario: <br />
-*tab space*1- System identifies user. <br />
-*tab space*2- User browse available albums and songs. <br />
-*tab space*3- User choose a song. <br />
-*tab space*4- The system begins playing selected song. <br />
+  1- System identifies user. <br />
+  2- User browse available albums and songs. <br />
+  3- User choose a song. <br />
+  4- The system begins playing selected song. <br />
 
 # Solution
 # 1- Using Use Stories:-
